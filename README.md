@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Flat UI Pro
 =======
 
@@ -26,3 +27,8 @@ http://designmodo.com/flat
 
 ## Typeface
 Flat UI Free is made using the Lato typeface, which can be downloaded for free here: http://www.google.com/webfonts/specimen/Lato
+=======
+test
+====
+this my testing data
+>>>>>>> 82b029e5af7c6bcb078f6aca4bb71fc7e4b76de0
